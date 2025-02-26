@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+About this example web site
+
+```{r}
+1 + 1
+```
